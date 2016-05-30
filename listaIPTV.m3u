@@ -219,145 +219,91 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", La Red (CAIDO)
+#EXTINF:-1,UFC NETWORK
+http://iptv.latino-webtv.com/server2.m3u8?canal=UFCNetworkLA&cm=1047
+#EXTINF:-1,LA RED (CAIDO)
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", UCV (HD)
+#EXTINF:-1,UCV (HD)
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", TVN (HD)
+#EXTINF:-1,TVN (HD)
 http://edge-101-cl.edge.mdstrm.com/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/playlist.m3u8?
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", MEGA (HD)
+#EXTINF:-1,MEGA (HD)
 http://edge-81-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", CHV (432p)
+#EXTINF:-1,CHV (432p)
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Canal 13 (540p)
+#EXTINF:-1, CANAL 13 (540p)
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", 13C
+#EXTINF:-1,13C
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", TVN Señal Int. (TV Chile)
+#EXTINF:-1,TVN SEÑAL INT. (TV Chile)
 http://edge-111-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", LIV TV (HD)
+#EXTINF:-1,LIV TV (HD)
 http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", CDO HD (480p)
+#EXTINF:-1,CDO HD (480p)
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-
-
-#EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", -[COLOR red]Radios Chilenas con Video[/COLOR]-
-http://127.0.0.1
-
 #EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", Duna (89.7 FM)
 http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", ADN (91.7 FM)
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", La Clave (92.9)
 rtmp://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/laclavetv
-
 #EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", Tele13 Radio (103.3 FM)
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
-
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", -[COLOR red]Canales Argentinos[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", El Trece
+#EXTINF:-1,EL TRECE
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", TN
+#EXTINF:-1,TN
 rtsp://stream.tn.com.ar/live/tnhd1
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", C5N
+#EXTINF:-1,C5N
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 26
+#EXTINF:-1,CANAL 26
 rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", America TV
+#EXTINF:-1,AMERICA TV
 https://www.youtube.com/watch?v=Hytby2q7c0c
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 2 Misiones
+#EXTINF:-1,CANAL 2 MISIONES
 http://190.57.237.230/live/canal2.m3u8?ID=21.821294800974943
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Tv Publica 
+#EXTINF:-1,TV PUBLICA
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", A24
+#EXTINF:-1,A24
 https://www.youtube.com/watch?v=4rmsEf46f7I
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 7 Mendoza
+#EXTINF:-1,CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=cdy85qJH_Ds
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 26 
+#EXTINF:-1,CANAL 26 
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 9 
+#EXTINF:-1,CANAL 9 
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", -[COLOR red]Canales Españoles[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Antena 3 HD
+#EXTINF:-1, ANTENA 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-
-#EXTINF:-1,tvg-logo="" group-title="Canales Españoles", Mega HD
+#EXTINF:-1,Mega HD
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", La Sexta 
+#EXTINF:-1,La Sexta 
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", TVE 1 
+#EXTINF:-1,TVE 1 
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", TVE 2 
+#EXTINF:-1,TVE 2 
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", RTVE 24H 
+#EXTINF:-1,RTVE 24H 
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Miami TV
+#EXTINF:-1,MIAMI TV
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", -[COLOR red]Canales Mexicanos[/COLOR]-
-http://127.0.0.1
-
-#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca Noticias 
+#EXTINF:-1,Azteca Noticias 
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-
-#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca 13 HD
+#EXTINF:-1,Azteca 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-
-#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca Deportes HD
+#EXTINF:-1,Azteca Deportes HD
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", TVMas HD
+#EXTINF:-1,TVMas HD
 rtmp://50.7.98.234/rtv/videortv
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Canal de las Estrellas
+#EXTINF:-1,Canal de las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Proyecto 40
+#EXTINF:-1,Proyecto 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Foro TV
+#EXTINF:-1,Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Telemundo
+#EXTINF:-1,Telemundo
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-
-#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca 7
+#EXTINF:-1, Azteca 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Multimedios Tv 
+#E:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Multimedios Tv 
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Canales Peruanos", -[COLOR red]Canales Peruanos[/COLOR]-

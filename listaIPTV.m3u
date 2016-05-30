@@ -1,4 +1,22 @@
 ﻿#EXTM3U
+#EXTINF:-1,Disney Channel
+http://31.220.40.123:80/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1,DisneyXD
+http://31.220.40.123:80/LiveEdge/DisneyXDSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1,Disney Jr
+http://31.220.40.123:80/LiveEdge/DisneyJrLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1,Nickelodeon
+http://31.220.40.123:80/LiveEdge/NickelodeonLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1,Nick Jr
+http://31.220.40.123:80/LiveEdge/NickJrLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1,Discovery Kids
+http://31.220.40.123:80/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1,Cartoon Network
+http://31.220.40.123:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1,Boomerang
+http://31.220.40.123:80/LiveEdge/BoomerangLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1,Tooncast
+http://31.220.40.123:80/LiveEdge/TooncastSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF:0,DISCOVERY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 #EXTINF:0,DISCOVERY THEATER

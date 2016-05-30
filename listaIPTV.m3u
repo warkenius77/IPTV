@@ -359,6 +359,22 @@ http://190.248.81.11:1938/live/myStream22/playlist.m3u8
 http://31.204.128.127:8081/live/record/playlist.m3u8 
 #EXTINF:-1,RIC TV
 http://31.204.128.127:8081/live/sptv/playlist.m3u8
+#EXTINF:-1, Sportv
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+#EXTINF:-1,Sporttv2
+http://31.204.128.127:8081/live/sportv2/playlist.m3u8
+#EXTINF:-1,COMBATE
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+#EXTINF:-1,Globo
+http://art.nextv.ca:80/nextv/globo/index.m3u8
+#EXTINF:-1,SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
+#EXTINF:-1,BAND HD
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/playlist.m3u8
+#EXTINF:-1, RedeTv
+http://31.204.128.112:8081/live/redetv/playlist.m3u8
+#EXTINF:-1,Record
+http://cast2.player.tv.br:1935/8126/8126/live.m3u8
 #EXTINF:-1,TyC Sports 
 http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/master.m3u8
 #EXTINF:-1,Bein Sports N

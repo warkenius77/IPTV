@@ -1,22 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,Disney Channel
-http://31.220.40.123:80/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,DisneyXD
-http://31.220.40.123:80/LiveEdge/DisneyXDSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,Disney Jr
-http://31.220.40.123:80/LiveEdge/DisneyJrLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,Nickelodeon
-http://31.220.40.123:80/LiveEdge/NickelodeonLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,Nick Jr
-http://31.220.40.123:80/LiveEdge/NickJrLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,Discovery Kids
-http://31.220.40.123:80/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,Cartoon Network
-http://31.220.40.123:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,Boomerang
-http://31.220.40.123:80/LiveEdge/BoomerangLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,Tooncast
-http://31.220.40.123:80/LiveEdge/TooncastSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF:0,DISCOVERY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 #EXTINF:0,DISCOVERY THEATER
@@ -203,7 +185,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
 #EXTINF:0,SPACE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
-#EXTINF:0,STUDIOUNIVERSAL
+#EXTINF:0,STUDIO UNIVERSAL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
 #EXTINF:0,I.SAT
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
@@ -237,8 +219,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
-#EXTINF:-1,UFC NETWORK
-http://iptv.latino-webtv.com/server2.m3u8?canal=UFCNetworkLA&cm=1047
 #EXTINF:-1,LA RED (CAIDO)
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:-1,UCV (HD)
@@ -377,22 +357,6 @@ http://190.248.81.11:1938/live/myStream22/playlist.m3u8
 http://31.204.128.127:8081/live/record/playlist.m3u8 
 #EXTINF:-1,RIC TV
 http://31.204.128.127:8081/live/sptv/playlist.m3u8
-#EXTINF:-1, Sportv
-http://31.204.128.112:8081/live/sportv/playlist.m3u8
-#EXTINF:-1,Sporttv2
-http://31.204.128.127:8081/live/sportv2/playlist.m3u8
-#EXTINF:-1,COMBATE
-http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
-#EXTINF:-1,Globo
-http://art.nextv.ca:80/nextv/globo/index.m3u8
-#EXTINF:-1,SBT
-http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
-#EXTINF:-1,BAND HD
-http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/playlist.m3u8
-#EXTINF:-1, RedeTv
-http://31.204.128.112:8081/live/redetv/playlist.m3u8
-#EXTINF:-1,Record
-http://cast2.player.tv.br:1935/8126/8126/live.m3u8
 #EXTINF:-1,TyC Sports 
 http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/master.m3u8
 #EXTINF:-1,Bein Sports N
